@@ -1,0 +1,9 @@
+# Filetypes that are ignored and untracked
+#
+*.png
+*.ico
+*.csproj
+*.cachefile
+Properties/
+bin/
+obj/
